@@ -6,7 +6,7 @@
 
 - 🎯 Atuo com **análise de dados** e **estatística aplicada**, com foco em **resolver problemas reais** com base em evidências.
 - 🧠 Busco dominar as **ferramentas mais eficazes** do mercado, adaptando-me a **novas tecnologias** para garantir soluções robustas e atualizadas.
-- 🔍 Exploro dados para construir respostas. Sempre com **rigor estatístico** e **comunicação clara**.
+- 🔍 Exploro dados para construir **respostas**. Sempre com **rigor estatístico** e **comunicação clara**.
 
 ###
 
