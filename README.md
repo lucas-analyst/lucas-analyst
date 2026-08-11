@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá! Seja bem vindo ao meu perfil</h1>
+<h2 align="left">👋 Olá! Seja bem vindo ao meu perfil!</h2>
 
 ###
 
@@ -15,18 +15,6 @@
 - Linguagens: `Python`, `R`, `SQL`
 - Frameworks e Ferramentas: `Streamlit`, `Shiny`, `Power BI`, `Excel`
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-analyst/lucas-analyst/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-analyst/lucas-analyst/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucas-analyst/lucas-analyst/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lucas-analyst/count.svg?"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucas-analyst&color=blue&style=flat" />
+</p>
