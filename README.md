@@ -1,14 +1,12 @@
-<h2 align="left">👋 Olá! Seja bem vindo ao meu perfil!</h2>
+<h2 align="left">👋 Olá! Seja bem-vindo ao meu perfil!</h2>
 
 ###
 
-<p align="left">Meu nome é Lucas, sou um estatístico e analista de dados em formação.</p>
+<p align="left">Meu nome é Lucas, sou estatístico e analista de dados.</p>
 
-- 🎯 Atuo com **análise de dados** e **estatística aplicada**, com foco em **resolver problemas reais** com base em evidências.
-- 🧠 Busco dominar as **ferramentas mais eficazes** do mercado, adaptando-me a **novas tecnologias** para garantir soluções robustas e atualizadas.
-- 🔍 Exploro dados para construir **respostas**. Sempre com **rigor estatístico** e **comunicação clara**.
-
-###
+- 🎯 Atuo com <strong>análise de dados</strong> e <strong>estatística aplicada</strong>, transformando dados em informações para apoiar <strong>decisões</strong>.
+- 🧠 Combino <strong>estatística</strong> e <strong>tecnologia</strong> para desenvolver soluções orientadas a <strong>problemas reais</strong>.
+- 🔍 Exploro dados para construir <strong>respostas</strong>, com <strong>rigor estatístico</strong> e <strong>comunicação clara</strong>.
 
 ## 🛠️ Tech Stack
 
