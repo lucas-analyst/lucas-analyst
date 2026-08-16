@@ -10,11 +10,26 @@
 
 ###
 
-<h2 align="left">🧰 Stack principal</h2>
+# 🛠️ Tech Stack
 
-- Linguagens: `Python`, `R`, `SQL`
-- Frameworks e Ferramentas: `Streamlit`, `Shiny`, `Power BI`, `Excel`
+### Languages
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucas-analyst&color=blue&style=flat" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Apps
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-1F75FE?style=for-the-badge&logo=R&logoColor=white)
+
+### BI & Visualização
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge)
+
+### Cloud & Data Platform
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
